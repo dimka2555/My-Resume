@@ -68,7 +68,7 @@ GitLab, Git, zabbix, Grafana, Prometheus, Docker, DockerCompose, Kubernetes, Vee
 proxmox, TCP/IP, Nginx, Apache, MySQL, MariaDB, PostgreSQL, Bash, Python
 ```
 ## Language
-Russian  Native
-English  Intermediate
++ Russian  Native
++ English  Intermediate
 
 
