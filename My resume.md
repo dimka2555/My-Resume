@@ -62,7 +62,7 @@ Information support for users
 ```
 ## Skills
 ```
-VPN, Active directory, Hand tools, Hand tools, Help desk, DNS, Vmware, LAMP Stack, Documentation review, Ansible,
+VPN, Active directory, Hand tools, Help desk, DNS, Vmware, LAMP Stack, Documentation review, Ansible,
 GitLab, Git, zabbix, Grafana, Prometheus, Docker, Docker-Compose, Kubernetes, Veeam , Backup scripts, Windows, Linux,
 proxmox, TCP/IP, Nginx, Apache, MySQL, MariaDB, PostgreSQL, Bash, Python
 ```
