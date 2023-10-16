@@ -1,8 +1,11 @@
 # Dmitry Churyla
-
-48578095253 | dsdidi4@gmail.com | Warsaw, Poland
+===========================================
+  Warsaw, Poland 
+===========================================
 + Linkedin - https://www.linkedin.com/in/dmitry-churyla-92a4b5226/
 + Telegram - https://t.me/DonDimka
++ dsdidi4@gmail.com
++ 48578095253
 ## Experience
 
 
