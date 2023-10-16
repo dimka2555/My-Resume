@@ -3,8 +3,8 @@
 ===========================================
 + Linkedin - https://www.linkedin.com/in/dmitry-churyla-92a4b5226/
 + Telegram - https://t.me/DonDimka
-+ dsdidi4@gmail.com
-+ 48578095253
++ email - dsdidi4@gmail.com
++ phone numbur - +48578095253
 ## Experience
 
 
