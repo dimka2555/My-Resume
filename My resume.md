@@ -3,7 +3,7 @@
 +48578095253 | dsdidi4@gmail.com | Warsaw, Poland
 ## Experience
 
-```
+
 Iridescent studio
 System Administrator/DevOps | 01/2023 + Present
 
@@ -19,7 +19,7 @@ System Administrator/DevOps | 01/2023 + Present
 + LDAP + freeipa, AD.Installation and configuration from scratch for different systems.
 + hardware trubleshut problems
 + maintaining documentation
-```
+
 
 ```
 Engir
