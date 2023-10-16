@@ -1,5 +1,4 @@
 # Dmitry Churyla
-===========================================
   Warsaw, Poland 
 ===========================================
 + Linkedin - https://www.linkedin.com/in/dmitry-churyla-92a4b5226/
