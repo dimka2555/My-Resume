@@ -4,7 +4,7 @@
 + Linkedin - https://www.linkedin.com/in/dmitry-churyla-92a4b5226/
 + Telegram - https://t.me/DonDimka
 + email - dsdidi4@gmail.com
-+ phone numbur - +48578095253
++ phone number - +48578095253
 ## Experience
 
 
@@ -23,7 +23,7 @@ System Administrator/DevOps | 01/2023  Present
  Administration of DLink, Mikrotik, etc...
  Working with mail  zoho mail, Yandex, google workplace. Setting up Domain Management
  LDAP  freeipa, AD.Installation and configuration from scratch for different systems.
- Hardware trubleshut problems
+ Hardware troubleshoot problems
  Maintaining documentation
 ```
 
