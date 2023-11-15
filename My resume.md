@@ -74,4 +74,5 @@ proxmox, TCP/IP, Nginx, Apache, MySQL, MariaDB, PostgreSQL, Bash, Python
 + Russian  Native
 + English  Intermediate
 
+<span style="opacity:0.5">In accordance with art. 6 (1) a. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) hereinafter GDPR, I hereby give consent for my personal data included in the application to be processed for the purposes of a recruitment process.</span>
 
