@@ -11,7 +11,7 @@ Already Media
 System Administrator/DevOps | 03/2024  Present
 
  Linux Administrator
- Atlassian products Cliud(jira, confluence, bamboo, bitbucket)
+ Atlassian products Cliud(jira, confluence)
  ci/cd
  Web servers nginx/ caddy/ traefik
  Docker containers
@@ -20,6 +20,7 @@ System Administrator/DevOps | 03/2024  Present
  AzureAD+gsuite+intune
  Hardware troubleshoot problems
  Maintaining documentation
+ k8s
 
 ```
 
