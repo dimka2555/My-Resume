@@ -21,6 +21,9 @@ System Administrator/DevOps | 03/2024  Present
  Hardware troubleshoot problems
  Maintaining documentation
  k8s
+ Grafana + Prometheus
+ loki
+ Graylog
 
 ```
 
