@@ -6,7 +6,22 @@
 + email - dsdidi4@gmail.com
 + phone number - +48578095253
 ## Experience
+```
+Already Media
+System Administrator/DevOps | 03/2024  Present
 
+ Linux Administrator
+ Atlassian products Cliud(jira, confluence, bamboo, bitbucket)
+ ci/cd
+ Web servers nginx/ caddy/ traefik
+ Docker containers
+ Zabbix setup, template creation,
+ Gsuite Administrator / script google
+ AzureAD+gsuite+intune
+ Hardware troubleshoot problems
+ Maintaining documentation
+
+```
 
 ```
 Iridescent studio
