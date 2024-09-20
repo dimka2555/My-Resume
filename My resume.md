@@ -13,6 +13,7 @@ System Administrator/DevOps | 03/2024  Present
  Linux Administrator
  Atlassian products Cliud(jira, confluence)
  ci/cd
+ Gitlab
  Web servers nginx/ caddy/ traefik
  Docker containers
  Zabbix setup, template creation,
