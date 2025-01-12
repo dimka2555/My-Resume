@@ -1,10 +1,9 @@
 # Dmitry Churyla
-  Warsaw, Poland 
+  Minsk, Belarus
 ===========================================
 + Linkedin - https://www.linkedin.com/in/dmitry-churyla-92a4b5226/
 + Telegram - https://t.me/DonDimka
 + email - dsdidi4@gmail.com
-+ phone number - +375292042390
 ## Experience
 ```
 Already Media
